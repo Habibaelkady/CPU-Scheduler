@@ -10,10 +10,10 @@ CPP program to visualize and analyze the CPU scheduling algorithms : <br />
 - Aging <br />
   
 The program reads the an input file from the user containing : <br />
-1-(trace: to visualize the process switching over cpu or stats: to show statistics about the scheduled processes) <br />
-2- CPU scheduling policy to be used with their parameters (if needed) <br />
-3- The ending time of the timeline <br />
-4- The number of processes <br />
-5- Description of each process containing (process name - Arrival time - service time) <br />
+1 - (trace: to visualize the process switching over cpu or stats: to show statistics about the scheduled processes) <br />
+2 - CPU scheduling policy to be used with their parameters (if needed) <br />
+3 - The ending time of the timeline <br />
+4 -  The number of processes <br />
+5 -  Description of each process containing (process name - Arrival time - service time) <br />
 
 provided some test cases 
