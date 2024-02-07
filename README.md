@@ -16,4 +16,4 @@ The program reads the an input file from the user containing : <br />
 4- The number of processes <br />
 5- Description of each process containing (process name - Arrival time - service time) <br />
 
-pprovided some test cases 
+provided some test cases 
