@@ -1,6 +1,6 @@
 # CPU-SCHEDULER
-CPP program to visualize and analyze the CPU scheduling algorithms :
-FCFS [First Come First Served]
+CPP program to visualize and analyze the CPU scheduling algorithms :__
+FCFS [First Come First Served]__
 RR [Round Robin]
 SPN [Shortest Process Next]
 SRT [Shortest Remaining Time]
